@@ -8,10 +8,6 @@ void main() {
   blackpink.introduce();
 }
 
-// 인스턴스화에 대한 내용
-// 초기화만 정상적으로 이루어진다면
-// 어떤 컨스트럭터 문법을 사용해도 상관없고, 
-// 별도 정의해서 사용해도 된다.
 class Idol {
   String? name = null;
   List<String>? member = null;
